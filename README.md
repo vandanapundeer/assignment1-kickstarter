@@ -1,2 +1,2 @@
-# assignment1-kickstarter
-Assignment 1, Bootcamp, Kickstarter
+# An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover trends.
